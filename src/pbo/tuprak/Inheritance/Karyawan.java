@@ -1,4 +1,4 @@
-package pbo.tuprak.pewarisan;
+package pbo.tuprak.Inheritance;
 
 // Kelas Karyawan adalah kelas induk untuk semua tipe karyawan
 class Karyawan {

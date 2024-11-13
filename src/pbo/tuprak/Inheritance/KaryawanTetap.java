@@ -1,4 +1,4 @@
-package pbo.tuprak.pewarisan;
+package pbo.tuprak.Inheritance;
 
 // Kelas KaryawanTetap yang mewarisi dari Karyawan
 class KaryawanTetap extends Karyawan {

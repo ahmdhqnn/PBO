@@ -1,4 +1,4 @@
-package pbo.tuprak.pewarisan;
+package pbo.tuprak.Inheritance;
 
 // Kelas Main sebagai titik awal eksekusi program
 public class Main {

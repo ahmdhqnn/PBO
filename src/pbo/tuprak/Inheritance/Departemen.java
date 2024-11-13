@@ -1,4 +1,4 @@
-package pbo.tuprak.pewarisan;
+package pbo.tuprak.Inheritance;
 
 import java.util.*;
 // Kelas Departemen mewakili departemen yang berisi daftar karyawan
