@@ -1,4 +1,4 @@
-package pbo.assignment.asgmnt1;
+package pbo.assesment.assement1;
 
 
 public class TempatWisata {

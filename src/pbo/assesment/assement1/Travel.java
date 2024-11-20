@@ -1,4 +1,4 @@
-package pbo.assignment.asgmnt1;
+package pbo.assesment.assement1;
 
 import java.util.ArrayList;
 
